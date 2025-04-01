@@ -22,13 +22,12 @@
 
 ---
 
-## Example Results
+## Example Result
 
-| Input | Output |
-|-------|--------|
-| ![Input Image](./prokudin-gorskii/vancouver_tableau.jpg) <br> *Vancouver Tableau* | ![Output Image](./results/aligned/vancouver_tableau.jpg) <br> *Aligned Result* |
-| ![Input Image](./prokudin-gorskii/seoul_tableau.jpg) <br> *Seoul Tableau* | ![Output Image](./results/aligned/seoul_tableau.jpg) <br> *Aligned Result* |
-
+**Seoul Tableau**  
+Input | Output  
+:-----:|:-----:  
+![Input](./prokudin-gorskii/seoul_tableau.jpg) | ![Output](./results/aligned/seoul_tableau.jpg)
 
 ---
 
