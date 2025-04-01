@@ -22,6 +22,13 @@
 
 ---
 
+## Example Result
+### Input
+![Input Image](./prokudin-gorskii/vancouver_tableau.jpg)
+
+### Output
+![Output Image](./results/aligned/vancouver_tableau.jpg)
+
 ## 🚀 Usage  
 ```bash
 # Install dependencies
@@ -29,11 +36,3 @@ pip install numpy opencv-python matplotlib
 
 # Run alignment
 python main.py 
-
-## Example Images
-
-### Input
-![Input Image](./prokudin-gorskii/vancouver_tableau.jpg)
-
-### Output
-![Output Image](./results/aligned/vancouver_tableau.jpg.jpg)
