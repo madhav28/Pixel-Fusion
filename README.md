@@ -22,17 +22,13 @@
 
 ---
 
-## Example Result
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center;">
-    <strong>Input</strong><br>
-    <img src="./prokudin-gorskii/vancouver_tableau.jpg" alt="Input Image" width="300">
-  </div>
-  <div style="text-align: center;">
-    <strong>Output</strong><br>
-    <img src="./results/aligned/vancouver_tableau.jpg" alt="Output Image" width="300">
-  </div>
-</div>
+## Example Results
+
+| Input | Output |
+|-------|--------|
+| ![Input Image](./prokudin-gorskii/vancouver_tableau.jpg) <br> *Vancouver Tableau* | ![Output Image](./results/aligned/vancouver_tableau.jpg) <br> *Aligned Result* |
+| ![Input Image](./prokudin-gorskii/seoul_tableau.jpg) <br> *Seoul Tableau* | ![Output Image](./results/aligned/seoul_tableau.jpg) <br> *Aligned Result* |
+
 
 ---
 
